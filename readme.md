@@ -12,14 +12,6 @@ Incoming M.S. AI Engineering (Information Security) @ Carnegie Mellon University
 
 ---
 
-### About
-
-I build at the intersection of AI and security. My work spans adversarial ML, agentic AI systems, and production infrastructure -- from building multi-agent network defense frameworks to winning hackathons with MCP server innovations.
-
-Previously interned at **Adobe**, where I shipped personalized upgrade flows that drove $0.5M in projected revenue. Currently a research assistant at SJSU working on explainable-AI network defense with LLM agents.
-
----
-
 ### Experience
 
 | | Role | Where | When |
@@ -27,65 +19,6 @@ Previously interned at **Adobe**, where I shipped personalized upgrade flows tha
 | <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white" /> | Software Engineer Intern | Adobe | May -- Aug 2025 |
 | <img src="https://img.shields.io/badge/Research-4285F4?style=flat&logoColor=white" /> | Research Assistant | San Jose State University | Oct 2024 -- Present |
 | <img src="https://img.shields.io/badge/Engineering-007396?style=flat&logoColor=white" /> | Software Engineer Intern | SJSU College of Engineering | Jun -- Aug 2024 |
-
----
-
-### Publications
-
-- **LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**
-  *EMNLP 2025 Main Conference -- Accepted*
-
-- **An LLM-Based Agentic Network Traffic Incident Report Approach towards Explainable-AI Network Defense**
-  *JSANS MDPI -- Under Review*
-
-- **GATNextHop: A GAT for Shortest Path Routing with Cross-Topology Generalization**
-  *CSCSU 2026 -- Under Review*
-
-- **Demo: A Real-time Multi-Agent Network Attack Detection and Incident Response System**
-  *IEEE SVCC 2025 CyberWarrior Challenge -- First Place Winner*
-
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[LLaMP](https://github.com/knhn1004)**
-`Python` `FastAPI` `LangChain` `K8s`
-
-Multi-layered RAG agent with 30+ tools for ReAct-based materials science queries. Redis cache/pub-sub with 3D crystal structure rendering.
-
-</td>
-<td width="50%">
-
-**[A10 Networks MCP Server](https://github.com/knhn1004)**
-`Python` `MCP` `Docker` `LSTM`
-
-1st Place, A10 Networks Agentic AI Hackathon. MCP server enabling LLM agents for automated malware and jailbreak detection in sandboxed containers.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Homelab](https://github.com/knhn1004)**
-`Proxmox` `K8s` `Jenkins` `ArgoCD` `Vault`
-
-Production-grade infra: 3-node K8s cluster, GitOps CI/CD with Gitea + Jenkins + ArgoCD, SSO via LLDAP + Authelia, Traefik ingress with Cloudflare tunnels.
-
-</td>
-<td width="50%">
-
-**[AI Model Watermark](https://github.com/knhn1004)**
-`Python` `OpenCL` `PyTorch`
-
-GPU-accelerated model watermarking for IP protection of neural network weights. Embedding and verification pipeline for detecting unauthorized copying.
-
-</td>
-</tr>
-</table>
 
 ---
 
