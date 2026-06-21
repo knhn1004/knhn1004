@@ -2,7 +2,7 @@
 
 **AI Security Engineer & Researcher**
 
-Incoming M.S. AI Engineering (Information Security) @ Carnegie Mellon University | B.S. Computer Science @ San Jose State University
+M.S. AI Engineering (Information Security) @ Carnegie Mellon University | B.S. Computer Science @ San Jose State University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chiahongchou-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiahongchou)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-63%20Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ll-LGAkAAAAJ)
